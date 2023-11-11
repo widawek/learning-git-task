@@ -16,3 +16,5 @@ for key, value in shopping.items():
 info = ('Lista zakupów\n{}W sumie kupię {} produktów.'
         .format(text, number_of_products))
 print(info, '\n')
+
+print("Pierwsza zmiana")
