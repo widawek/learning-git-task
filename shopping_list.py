@@ -18,3 +18,4 @@ info = ('Lista zakupów\n{}W sumie kupię {} produktów.'
 print(info, '\n')
 
 print("Pierwsza zmiana")
+print("Druga zmiana")
